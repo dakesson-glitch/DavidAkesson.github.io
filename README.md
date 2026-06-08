@@ -342,7 +342,7 @@
           <span class="cl-icon">&#9993;&#65039;</span>
           <div>
             <p class="cl-label">Email</p>
-            <p class="cl-value">dakesson@gmail.com</p>
+            <p class="cl-value">dakesson@browning.edu</p>
           </div>
         </a>
         <a href="tel:+13475004224" class="contact-link">
